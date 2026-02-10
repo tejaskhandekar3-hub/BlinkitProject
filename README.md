@@ -10,8 +10,7 @@ A dynamic, interactive data visualization tool built to explore Blinkit data wor
 1–2 sentences explaining what the dashboard does and why it exists.
 
 Example: 
-The Blinkit Analytics Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare averegaeRevenuePerSale,TheOverallRevenueGeneratedFromAllItemSold. The dashboard focuses on highlighting major Blinkit features like TotalSalesByFatContent,TotalSalesByItemType,FatContentForOutletForTotalSales,TotalSalesByOutletEshtablishment. This tool is intended for use toSeeWhetherOurBusinessIsGoingCorrectOrNot,WhetherWeAreProfitableOrNotWithRespectToLastYear,LastMonh,LastSiMonth,etcLikeWise and data-driven strategists who seek to understand trends and characteristics of Blinkit globally.
-
+The project aims to help stakeholders such as business managers, analysts, and decision-makers understand how Blinkit is performing across different operational dimensions — including sales, customer behavior, product categories, and outlet performance. It uses Power BI’s visualization and analytics capabilities to turn complex data into clear information. 
 ### 3.	Tech Stack
 List the key technologies used to build the dashboard.
 
